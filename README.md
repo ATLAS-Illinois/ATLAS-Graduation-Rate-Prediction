@@ -12,7 +12,7 @@ This project focuses on developing a machine learning pipeline to predict the li
 - **Features**:
   - User-friendly form input for predictors such as:
     - First-generation status.
-    - Underrepresented minority (URM) status.
+    - Financial aid status.
     - Gender.
     - High school GPA.
     - High school language years.
